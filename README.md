@@ -1,4 +1,4 @@
-# Music Player
+# Music and Radio Player
 
 This is a fully functional design of a web music and radio player component.
 ## Table of contents
